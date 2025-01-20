@@ -1,8 +1,11 @@
-## Hi there 👋
+# 👋 Hi there, I'm Raj Sonawane!  
 
- 💫 About Me:
- <br>
-"🎓 Computer Science Graduate | 💡 Data Enthusiast |<br>  🔍 Exploring the world of data analytics |<br>  🛠 Skilled in Python, SQL, Excel, Power BI, and more |<br>  🚀 On a mission to transform raw data into meaningful stories!"
+🎯 Aspiring Data Analyst | 📊 Data Enthusiast | 💻 Tech Explorer  
+🔍 Passionate about uncovering insights through data analysis  
+🛠 Skilled in Python, SQL, Excel, Power BI, and more  
+
+🌟 Always learning, building projects, and growing in the data world!  
+Feel free to check out my work and connect. Let's turn data into stories! 🚀
 
 
 # 💻 Tech Stack:
