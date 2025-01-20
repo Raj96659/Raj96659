@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Raj Sonawane!  
+# 👋 Hi folks, I'm Raj Sonawane!  
 
 🎯 Aspiring Data Analyst | 📊 Data Enthusiast | 💻 Tech Explorer  
 🔍 Passionate about uncovering insights through data analysis  
