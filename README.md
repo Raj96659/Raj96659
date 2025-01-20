@@ -1,6 +1,7 @@
 ## Hi there 👋
 
  💫 About Me:
+ <br>
 "🎓 Computer Science Graduate | 💡 Data Enthusiast |<br>  🔍 Exploring the world of data analytics |<br>  🛠 Skilled in Python, SQL, Excel, Power BI, and more |<br>  🚀 On a mission to transform raw data into meaningful stories!"
 
 
