@@ -1,6 +1,6 @@
 # 👋 Hi folks, I'm Raj Sonawane!  
 
-🎯 Aspiring Data Analyst | 📊 Data Enthusiast | 💻 Tech Explorer  
+🎯 Aspiring Data Scientist | 📊 Data Enthusiast | 💻 Tech Explorer  
 🔍 Passionate about uncovering insights through data analysis  
 🛠 Skilled in Python, SQL, Excel, Power BI, and more  
 
