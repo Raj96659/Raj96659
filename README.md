@@ -1,10 +1,11 @@
 # 👋 Hi folks, I'm Raj Sonawane!  
 
-🚀 Data Science Explorer | 🤖 Machine Learning | 📊 Analytics
-💻 Skilled in Python, Pandas, Scikit-learn, TensorFlow
-🔬 Working on ML & Deep Learning projects
-📈 Turning data → models → insights
-🔍 Exploring Predictive Modeling, NLP, and AI-driven solutions
+🚀 Data Science Explorer | 🤖 Machine Learning | 📊 Analytics <br>
+💻 Skilled in Python, Pandas, Scikit-learn, TensorFlow <br>
+🔬 Working on ML & Deep Learning projects <br>
+📈 Turning data → models → insights <br><br>
+🌟 Always learning, building, and sharing!
+
 
 🌟 Always learning, building, and sharing!
 
