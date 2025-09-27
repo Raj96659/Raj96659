@@ -1,11 +1,12 @@
 # 👋 Hi folks, I'm Raj Sonawane!  
 
-🎯 Aspiring Data Scientist | 📊 Data Enthusiast | 💻 Tech Explorer  
-🔍 Passionate about uncovering insights through data analysis  
-🛠 Skilled in Python, SQL, Excel, Power BI, and more  
+🚀 Data Science Explorer | 🤖 Machine Learning | 📊 Analytics
+💻 Skilled in Python, Pandas, Scikit-learn, TensorFlow
+🔬 Working on ML & Deep Learning projects
+📈 Turning data → models → insights
+🔍 Exploring Predictive Modeling, NLP, and AI-driven solutions
 
-🌟 Always learning, building projects, and growing in the data world!  
-Feel free to check out my work and connect. Let's turn data into stories! 🚀
+🌟 Always learning, building, and sharing!
 
 
 # 💻 Tech Stack:
