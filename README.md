@@ -38,10 +38,10 @@
 ---
 
 ## 🧪 **Featured Projects**
-🎯 [**Laptop Price Predictor (ML + Streamlit App)**](https://github.com/Raj96659/Laptop-Price-Prediction)  
-💬 [**Customer Feedback NLP Analysis**](https://github.com/Raj96659/Customer-Feedback-NLP)  
-🧠 [**Diwali Sales Data Analysis (EDA + Power BI)**](https://github.com/Raj96659/Diwali-Sales-Analysis)  
-🌾 [**Crop Disease Detection using CNN**](https://github.com/Raj96659/Crop-Disease-Detection)  
+🎯 [**Laptop Price Predictor (ML + Streamlit App)**](https://github.com/Raj96659/Laptop-Price-Predictor-Smart-ML-Web-App)  
+💬 [**LoanSense-AI-Loan-Approval-Predictor**](https://github.com/Raj96659/LoanSense-AI-Loan-Approval-Predictor)  
+🧠 [**YouSummarize-AI-A-Gemini-powered-YouTube-Video-Summarizer**](https://github.com/Raj96659/YouSummarize-AI-A-Gemini-powered-YouTube-Video-Summarizer)  
+🌾 [**ManageMate-Smart-Employee-Dashboard**](https://github.com/Raj96659/ManageMate-Smart-Employee-Dashboard)  
 
 ---
 
@@ -65,7 +65,7 @@
 [![](https://visitcount.itsvg.in/api?id=Raj96659&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🌐 **Portfolio:** [raj-sonawane.github.io](https://raj-sonawane.github.io) *(optional if you create one)*  
-💼 **LinkedIn:** [linkedin.com/in/raj-sonawane](https://linkedin.com/in/raj-sonawane)  
+💼 **LinkedIn:** [linkedin.com/in/raj-sonawane](www.linkedin.com/in/raj-sonawane96659)  
 📊 **GitHub:** [github.com/Raj96659](https://github.com/Raj96659)
 
 
