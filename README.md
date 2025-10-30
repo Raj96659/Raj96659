@@ -64,7 +64,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Raj96659&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌐 **Portfolio:** [raj-sonawane.github.io](https://raj-sonawane.github.io) *(optional if you create one)*  
 💼 **LinkedIn:** [linkedin.com/in/raj-sonawane](www.linkedin.com/in/raj-sonawane96659)  
 📊 **GitHub:** [github.com/Raj96659](https://github.com/Raj96659)
 
