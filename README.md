@@ -1,31 +1,72 @@
-# 👋 Hi folks, I'm Raj Sonawane!  
+# 👋 Hey there, I'm Raj Sonawane!  
 
-🚀 Data Science Explorer | 🤖 Machine Learning | 📊 Analytics <br>
-💻 Skilled in Python, Pandas, Scikit-learn, TensorFlow <br>
-🔬 Working on ML & Deep Learning projects <br>
-📈 Turning data → models → insights <br><br>
-🌟 Always learning, building, and sharing!
+🚀 **Data Science Explorer | Machine Learning Enthusiast | Deep Learning Practitioner**  
+📊 Turning raw data into actionable insights using **Python, ML, and AI**  
+💡 Passionate about **building models that solve real-world problems**  
+🧠 Exploring **NLP, Computer Vision, and Generative AI**  
+🌱 Currently enhancing my skills in **MLOps & LLMs**  
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+## 🧰 **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
+## 📈 **What I Do**
+- 🧩 Build predictive ML models using **Regression, Classification & Clustering**
+- 🧠 Develop **Deep Learning** models using CNNs, RNNs & LSTMs
+- 📊 Create **interactive dashboards** in **Power BI** & **Excel**
+- 🧹 Perform **Data Cleaning, Feature Engineering & EDA**
+- 🤖 Experiment with **LLMs & AI Agents** for smart automation
+- 📚 Share insights & code on **GitHub and LinkedIn**
+
+---
+
+## 🧪 **Featured Projects**
+🎯 [**Laptop Price Predictor (ML + Streamlit App)**](https://github.com/Raj96659/Laptop-Price-Prediction)  
+💬 [**Customer Feedback NLP Analysis**](https://github.com/Raj96659/Customer-Feedback-NLP)  
+🧠 [**Diwali Sales Data Analysis (EDA + Power BI)**](https://github.com/Raj96659/Diwali-Sales-Analysis)  
+🌾 [**Crop Disease Detection using CNN**](https://github.com/Raj96659/Crop-Disease-Detection)  
+
+---
+
+## 📊 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=Raj96659&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raj96659&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj96659&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=Raj96659&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raj96659&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ **Quote that Inspires Me**
+> “Data is the new oil, but insight is the new gold.”  
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Raj96659&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🌐 **Portfolio:** [raj-sonawane.github.io](https://raj-sonawane.github.io) *(optional if you create one)*  
+💼 **LinkedIn:** [linkedin.com/in/raj-sonawane](https://linkedin.com/in/raj-sonawane)  
+📊 **GitHub:** [github.com/Raj96659](https://github.com/Raj96659)
+
 
 
