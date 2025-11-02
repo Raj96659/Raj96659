@@ -38,10 +38,10 @@
 ---
 
 ## 🧪 **Featured Projects**
+🌾 [**Potato Disease Classification using CNN & Flask**](https://github.com/Raj96659/Potato_Disease_Classification_using_CNN)  
 🎯 [**Laptop Price Predictor (ML + Streamlit App)**](https://github.com/Raj96659/Laptop-Price-Predictor-Smart-ML-Web-App)  
 💬 [**LoanSense-AI-Loan-Approval-Predictor**](https://github.com/Raj96659/LoanSense-AI-Loan-Approval-Predictor)  
 🧠 [**YouSummarize-AI-A-Gemini-powered-YouTube-Video-Summarizer**](https://github.com/Raj96659/YouSummarize-AI-A-Gemini-powered-YouTube-Video-Summarizer)  
-🌾 [**ManageMate-Smart-Employee-Dashboard**](https://github.com/Raj96659/ManageMate-Smart-Employee-Dashboard)  
 
 ---
 
